@@ -1,4 +1,4 @@
-package conditional_statements;
+package conditonal_statements;
 
 public class ElseIfExample {
     public static void main(String[] args) {
