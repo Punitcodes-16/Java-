@@ -1,12 +1,15 @@
 package conditonal_statements;
 
+import java.util.Scanner;
+
 public class ElseIfExample {
     public static void main(String[] args) {
-        int number = 15;
+       Scanner sc = new Scanner(System.in);
+        int x = sc.nextInt();
 
-        if (number > 0) {
+        if (x > 0) {
             System.out.println("The number is positive.");
-        } else if (number < 0) {
+        } else if (x < 0) {
             System.out.println("The number is negative.");
         } else {
             System.out.println("The number is zero.");
