@@ -1,3 +1,33 @@
-# java-learning
-This repository contains java programs .
-i am learning java from scratch and tracking my daily progress here
+![Banner](Banner.png.png)
+
+
+
+# 💻 Java Learning
+
+This repository contains Java programs.  
+I'm learning Java from scratch and tracking my daily progress here.
+
+---
+
+## 📚 Topics Covered
+- Basics
+- Loops
+- Functions
+- Arrays
+- Strings
+- Patterns
+- Conditionals
+
+---
+
+## ⚙ Tools Used
+- Java
+- VS Code
+- Git + GitHub
+
+---
+
+## 🚀 Goals
+- Finish Java + DSA
+- Build 2 Java mini projects
+- Start Web Development after that
