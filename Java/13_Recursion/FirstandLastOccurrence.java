@@ -1,4 +1,4 @@
-public class FirstandLastOccurrence {
+public class FirstAndLastOccurrence {
     public static int first = -1;
 public static int last = -1;
 public static void getIndices(String str, char el, int idx) {
