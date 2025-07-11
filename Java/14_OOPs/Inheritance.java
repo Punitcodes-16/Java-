@@ -16,6 +16,18 @@
    }
    public class Inheritance {
     public static void main(String[] args) {
-        
+        // Create a Shape object
+        Shape s = new Shape();
+        s.area(); // displays area
+
+        // Create a Triangle object
+        Triangle t = new Triangle();
+        t.area(); // inherited method from Shape
+        t.area(10, 5); // overridden method in Triangle
+
+        // Create a Circle object
+        Circle c = new Circle();
+        c.area(); // inherited method from Shape
+        c.area(7); // overridden method in Circle
     }
 }
